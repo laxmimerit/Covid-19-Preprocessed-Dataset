@@ -124,9 +124,6 @@ https://www.dallasnews.com/news/public-health/2020/05/19/why-arent-coronavirus-r
 https://abc11.com/nc-coronavirus-recovery-cases-update/6127051/
 
 
-
-
-
 Most of these reports are based on the US but mostly it is true for the rest of the world.
 
 
