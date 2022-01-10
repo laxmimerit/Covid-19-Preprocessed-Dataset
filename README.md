@@ -23,8 +23,6 @@ echo "running covid-19 data upload project"
 ls
 /home/ubuntu/anaconda3/bin/python upload.py
 
-
-
 ```
 # import
 # imports
